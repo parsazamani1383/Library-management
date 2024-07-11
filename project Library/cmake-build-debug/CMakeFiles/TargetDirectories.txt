@@ -1,0 +1,3 @@
+C:/Users/01it.ir/Desktop/ex.cpp/qt_example/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir
+C:/Users/01it.ir/Desktop/ex.cpp/qt_example/untitled6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/01it.ir/Desktop/ex.cpp/qt_example/untitled6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
